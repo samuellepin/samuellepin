@@ -49,6 +49,79 @@
 ### 📊 Mes statistiques de codage
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.85%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                570 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌆 Daytime                936 commits         ████████████░░░░░░░░░░░░░   46.09 % 
+🌃 Evening                473 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   415 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Tuesday                  370 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Wednesday                304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Thursday                 368 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Friday                   367 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Saturday                 135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Sunday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/01/2026 12:43:42 UTC
 <!--END_SECTION:waka-->
 
 
