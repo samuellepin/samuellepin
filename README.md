@@ -48,6 +48,8 @@
 
 ### 📊 Mes statistiques de codage
 
+<details>
+  <summary>Cliquez pour voir mes statistiques de codage détaillées !</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
@@ -123,7 +125,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 30/01/2026 12:43:42 UTC
 <!--END_SECTION:waka-->
-
+</details>
 
 ---
 
