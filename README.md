@@ -7,7 +7,7 @@
 ### 🚀 À propos de moi
 
 <p align="left">
-  🎓 <b>Étudiant en Informatique</b> passionné par l'équilibre entre la <b>programmation bas niveau</b> (performance, algorithmie) et le <b>développement Web</b> moderne.<br>
+  🎓 <b>Étudiant en Informatique</b> passionné par le <b>développement bas niveau</b> et le <b>back-end</b>.<br>
   🛠️ Actuellement contributeur chez <a href="https://github.com/Crownicles"><b>@Crownicles</b></a> et sur divers projets académiques.<br>
   📚 En cours d'exploration de l'univers <b>COBOL</b> et de la gestion de configuration avec <b>Nix</b>.<br>
   <b>🌍 Langues :</b> Français, Polonais, Anglais<br>
@@ -33,7 +33,7 @@
 
 #### 🔧 Outils & Environnement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,godot,neovim,vscode,idea,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,godot,unity,neovim,vscode,idea,eclipse&theme=dark" />
 </p>
 
 #### 🔍 Analyse & Réseau
@@ -49,7 +49,7 @@
 ### 📊 Mes statistiques de codage
 
 <details>
-  <summary>Cliquez pour voir mes statistiques de codage détaillées !</summary>
+  <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
@@ -139,5 +139,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ---
 
 <p align="center">
-  <i>"L'optimisation commence là où la compréhension du matériel s'arrête."</i>
+  <i>"Talk is cheap. Show me the code."<br>― Linus Torvalds</i>
 </p>
