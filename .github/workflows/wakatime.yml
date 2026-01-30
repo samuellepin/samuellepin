@@ -1,0 +1,18 @@
+name: Waka Readme
+on:
+  workflow_dispatch: # Pour le lancer à la main
+  schedule:
+    - cron: '0 0 * * *' # Tous les jours à minuit
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LINES_OF_CODE: "True"
