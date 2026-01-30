@@ -20,7 +20,7 @@
 
 #### 💻 Langages de programmation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ocaml,ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,ocaml,md,latex,ts,js,html,css&theme=dark" />
 </p>
 
 #### 🧪 Preuve formelle & Spécialités
@@ -33,7 +33,7 @@
 
 #### 🔧 Outils & Environnement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,godot,unity,neovim,vscode,idea,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,godot,unity,vim,neovim,vscode,idea,webstorm,eclipse,discord&theme=dark" />
 </p>
 
 #### 🔍 Analyse & Réseau
