@@ -94,19 +94,16 @@ Sunday                   128 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             ████████████████████░░░░░   78.37 % 
-Java                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Java-Editor-Docs         49 mins             ██████████████████░░░░░░░   70.22 % 
-Java-Editor              20 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +123,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 02:49:19 UTC
+ Last Updated on 19/03/2026 02:50:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
