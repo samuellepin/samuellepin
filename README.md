@@ -51,7 +51,7 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2026 03:56:39 UTC
+ Last Updated on 11/05/2026 04:07:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
