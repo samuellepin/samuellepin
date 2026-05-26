@@ -51,6 +51,8 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.87%20million%20lines%20of%20code-blue?style=flat)
@@ -67,45 +69,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                852 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
-🌆 Daytime                1310 commits        ████████████░░░░░░░░░░░░░   48.09 % 
-🌃 Evening                510 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   568 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Wednesday                470 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Friday                   561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Sunday                   125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ██████████████░░░░░░░░░░░   54.37 % 
-HTML                     33 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-CSS                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-
-🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-github                   1 hr 57 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -123,7 +86,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 04:25:52 UTC
+ Last Updated on 26/05/2026 04:10:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
