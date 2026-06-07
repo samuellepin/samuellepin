@@ -51,8 +51,6 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.87%20million%20lines%20of%20code-blue?style=flat)
@@ -123,7 +121,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 04:05:11 UTC
+ Last Updated on 07/06/2026 04:41:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
