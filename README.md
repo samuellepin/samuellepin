@@ -51,6 +51,8 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.87%20million%20lines%20of%20code-blue?style=flat)
@@ -67,6 +69,43 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                856 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌆 Daytime                1319 commits        ████████████░░░░░░░░░░░░░   48.09 % 
+🌃 Evening                516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   571 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                471 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Friday                   561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Sunday                   140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -84,7 +123,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:21:40 UTC
+ Last Updated on 26/07/2026 03:35:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
