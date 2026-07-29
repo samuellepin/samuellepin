@@ -51,10 +51,6 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.87%20million%20lines%20of%20code-blue?style=flat)
@@ -74,21 +70,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                857 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌆 Daytime                1323 commits        ████████████░░░░░░░░░░░░░   48.09 % 
-🌃 Evening                519 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+🌞 Morning                858 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌆 Daytime                1327 commits        ████████████░░░░░░░░░░░░░   48.10 % 
+🌃 Evening                522 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   572 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Wednesday                472 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Sunday                   146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Monday                   573 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Wednesday                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Friday                   561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Sunday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 
@@ -131,7 +127,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:15:08 UTC
+ Last Updated on 29/07/2026 03:18:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
