@@ -51,6 +51,10 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.87%20million%20lines%20of%20code-blue?style=flat)
@@ -67,6 +71,49 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                863 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌆 Daytime                1347 commits        ████████████░░░░░░░░░░░░░   48.12 % 
+🌃 Evening                537 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   578 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                478 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Friday                   561 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Saturday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -84,7 +131,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:57:02 UTC
+ Last Updated on 08/08/2026 02:03:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
