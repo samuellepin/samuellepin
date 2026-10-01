@@ -96,16 +96,16 @@ Sunday                   248 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-compte-rendus-latex      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,7 +131,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuellepin/samuellepin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 05:07:03 UTC
+ Last Updated on 01/10/2026 05:21:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
