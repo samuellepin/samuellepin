@@ -11,9 +11,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Prepare dist directory
         run: mkdir -p dist
-        
+
       - uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics.svg
@@ -28,7 +30,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_lines: yes
-          output_action: skip
+          output_action: none
 
       - name: Push metrics.svg to metrics-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
