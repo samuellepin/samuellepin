@@ -50,8 +50,9 @@
 
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
-  <!--metrics:start-->
-  <!--metrics:end-->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/samuellepin/samuellepin/main/metrics.svg" alt="GitHub Metrics" />
+  </p>
 </details>
 
 ---
