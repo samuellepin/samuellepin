@@ -51,7 +51,7 @@
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/samuellepin/samuellepin/main/metrics.svg" alt="GitHub Metrics" />
+    <img src="https://raw.githubusercontent.com/samuellepin/samuellepin/metrics-output/metrics.svg" alt="GitHub Metrics" />
   </p>
 </details>
 
