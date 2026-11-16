@@ -50,7 +50,8 @@
 
 <details>
   <summary>Cliquez pour voir mes statistiques !</summary>
-<!--metrics-->
+  <!--metrics:start-->
+  <!--metrics:end-->
 </details>
 
 ---
