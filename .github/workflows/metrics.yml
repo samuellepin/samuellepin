@@ -1,0 +1,30 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Tous les jours à minuit
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, makefile
+          plugin_languages_limit: 6
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_lines: yes
+          output_action: readme
+          markdown: README.md
+          markdown_cache: .cache
